@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/zapsplat_multimedia_cell_phone_smart_screen_button_press_click_feedback_002_60931.ogg-30e986e2b1fab2c56dc381e231597e27.oggstr"
+
+[deps]
+
+source_file="res://assets/zapsplat_multimedia_cell_phone_smart_screen_button_press_click_feedback_002_60931.ogg"
+dest_files=[ "res://.import/zapsplat_multimedia_cell_phone_smart_screen_button_press_click_feedback_002_60931.ogg-30e986e2b1fab2c56dc381e231597e27.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
